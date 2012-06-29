@@ -1,3 +1,7 @@
+;;
+;; Generate a Class that would be invoked by Tapestry, a.k.a Java
+;;
+
 (ns com.stubhub.pages.About)
 
 (gen-class
@@ -6,4 +10,4 @@
     :prefix "")
 
 (defn getAboutInfo [this]
-    "About Info")
+    "About Info from About.clj")
