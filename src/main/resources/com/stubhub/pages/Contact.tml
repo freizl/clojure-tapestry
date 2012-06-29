@@ -1,0 +1,8 @@
+<html t:type="layout" title="Contact com.stubhub"
+      xmlns:t="http://tapestry.apache.org/schema/tapestry_5_3.xsd"
+      xmlns:p="tapestry:parameter">
+
+    <p>Contact com.stubhub ...</p>
+<p>The current time is: <strong>${contactInfo}</strong></p>
+
+</html>

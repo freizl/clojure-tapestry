@@ -1,0 +1,8 @@
+<html t:type="layout" title="About newapp"
+      xmlns:t="http://tapestry.apache.org/schema/tapestry_5_3.xsd"
+      xmlns:p="tapestry:parameter">
+
+    <p>About newapp application ...</p>
+    <p>The current time is: <strong>${aboutInfo}</strong></p>
+
+</html>
