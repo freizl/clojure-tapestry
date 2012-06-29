@@ -2,3 +2,5 @@ target
 gradle
 *.gradle
 gradlew*
+.idea
+*.iml
