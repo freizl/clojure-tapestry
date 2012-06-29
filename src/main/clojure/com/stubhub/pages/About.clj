@@ -6,4 +6,4 @@
     :prefix "")
 
 (defn getAboutInfo []
-    (.String "About Info"))
+    "About Info")
