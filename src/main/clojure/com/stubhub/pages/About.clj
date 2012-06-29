@@ -5,5 +5,5 @@
     :methods [[getAboutInfo [] String]]
     :prefix "")
 
-(defn getAboutInfo []
+(defn getAboutInfo [this]
     "About Info")
