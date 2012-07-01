@@ -1,3 +1,9 @@
+## Integrate Tapestry with Clojure
+
+- hydrid Java and Clojure
+- test cases to demostrate
+    - Test clojure class from Java
+    - Test clojure class from clojure
 
 ## Newbie issues that fixed
 
