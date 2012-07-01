@@ -2,7 +2,7 @@
 <suite name="newapp Application Test Suite" annotations="1.5">
     <test name="Unit Tests">
         <packages>
-            <package name="com.stubhub"/>
+            <package name="com.freizl"/>
         </packages>
     </test>
 </suite>

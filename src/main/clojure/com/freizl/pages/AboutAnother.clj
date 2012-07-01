@@ -1,4 +1,4 @@
-(ns com.stubhub.pages.AboutAnother)
+(ns com.freizl.pages.AboutAnother)
 
 (defn getAboutInfo []
     "AboutAnother Info")

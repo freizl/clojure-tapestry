@@ -2,10 +2,10 @@
 ;; Generate a Class that would be invoked by Tapestry, a.k.a Java
 ;;
 
-(ns com.stubhub.pages.About)
+(ns com.freizl.pages.About)
 
 (gen-class
-    :name "com.stubhub.pages.About"
+    :name "com.freizl.pages.About"
     :methods [[getAboutInfo [] String]]
     :prefix "")
 

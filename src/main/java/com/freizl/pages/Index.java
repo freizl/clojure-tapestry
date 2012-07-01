@@ -1,4 +1,4 @@
-package com.stubhub.pages;
+package com.freizl.pages;
 
 import java.util.Date;
 import org.apache.tapestry5.annotations.*;

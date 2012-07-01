@@ -1,4 +1,4 @@
-package com.stubhub.services;
+package com.freizl.services;
 
 import java.io.IOException;
 

@@ -8,7 +8,7 @@
         <!-- The only significant configuration for Tapestry 5, this informs Tapestry
 of where to look for pages, components and mixins. -->
         <param-name>tapestry.app-package</param-name>
-        <param-value>com.stubhub</param-value>
+        <param-value>com.freizl</param-value>
     </context-param>
     <!--
     Specify some additional Modules for two different execution
@@ -18,13 +18,13 @@ of where to look for pages, components and mixins. -->
     <context-param>
         <param-name>tapestry.development-modules</param-name>
         <param-value>
-            com.stubhub.services.DevelopmentModule
+            com.freizl.services.DevelopmentModule
         </param-value>
     </context-param>
     <context-param>
         <param-name>tapestry.qa-modules</param-name>
         <param-value>
-            com.stubhub.services.QaModule
+            com.freizl.services.QaModule
         </param-value>
     </context-param>
     <filter>

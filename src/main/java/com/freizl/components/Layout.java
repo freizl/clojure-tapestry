@@ -1,4 +1,4 @@
-package com.stubhub.components;
+package com.freizl.components;
 
 import org.apache.tapestry5.*;
 import org.apache.tapestry5.annotations.*;
